@@ -7,7 +7,10 @@ This repository contains a technical deep dive designed to move data practitione
 ## Overview
 The goal of this playbook is to provide hands-on experience in **data modeling, monitoring, and query optimization**. By the end of this notebook, you will not just know *that* a query is slow; you will know how to model your data and read the **Execution Graph** to identify specific bottlenecks and implement architectural optimizations.
 
-
+# ************************************************************
+# **IMPORTANT BEFORE RUNNING THE NOTEBOOK:** You are about to run a heavy notebook which, which will imply costs on your environment.
+# Consider to study from the pre-run results and copy only the parts you need for your environment.
+# **********************************************************
 
 ---
 
@@ -65,6 +68,10 @@ A comprehensive cleanup section is included at the end of the notebook to preven
 
 ---
 
-## 📧 Contact
+## Contact
 **Philip Chopovsky** Customer Engineer, Data Analytics @ Google Cloud  
-[LinkedIn]([https://www.linkedin.com/in/pchop/]) | [Email](mailto:philipchop@google.com)
+* [Gmail](mailto:philipchop@google.com)
+* [LinkedIn](https://www.linkedin.com/in/pchop/)
+
+---
+*This demo is for educational purposes and showcases the capabilities of Google Cloud's data analytics platform.*
