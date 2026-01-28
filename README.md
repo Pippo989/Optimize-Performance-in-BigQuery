@@ -8,8 +8,7 @@ This repository contains a technical deep dive designed to move data practitione
 The goal of this playbook is to provide hands-on experience in **data modeling, monitoring, and query optimization**. By the end of this notebook, you will not just know *that* a query is slow; you will know how to model your data and read the **Execution Graph** to identify specific bottlenecks and implement architectural optimizations.
 
 # ************************************************************
-# **IMPORTANT BEFORE RUNNING THE NOTEBOOK:** You are about to run a heavy notebook which, which will imply costs on your environment.
-# Consider to study from the pre-run results and copy only the parts you need for your environment.
+# **IMPORTANT BEFORE RUNNING THE NOTEBOOK:** You are about to run a heavy notebook which, which will imply costs on your environment. Consider to study from the pre-run results and copy only the parts you need for your environment.
 # **********************************************************
 
 ---
